@@ -66,5 +66,5 @@
 <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadfazil&show_icons=true&locale=en&layout=compact" alt="fahadfazil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadfazil&hide=html,scss,css,php&show_icons=true&locale=en&layout=compact" alt="fahadfazil" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadfazil&show_icons=true&locale=en" alt="fahadfazil" /></p>
