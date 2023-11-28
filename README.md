@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Fazil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfazil&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfazil" /> </p>
 <p align="left">Skilful Software Architect with over 10 years of designing development frameworks and guidelines to expedite and enhance application engineering. Versed in numerous software categories for business and private users. Adept at constructing software architecture suited to rapid deployment across multiple projects to reduce development times and costs. Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fahadfazil&rank=SECCRET,SSS,SS,S,AAA,AA,A,B,C" alt="fahadfazil" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fahadfazil&row=1" alt="fahadfazil" /></a> </p>
 
 - 🔭 I’m currently working on Netzchef
 - 🌱 I’m currently learning **React, Next, Netlify, Vercel**
