@@ -77,6 +77,6 @@
 <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzomagurno&show_icons=true&locale=en&layout=compact" alt="enzomagurno" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadfazil&show_icons=true&locale=en&layout=compact" alt="fahadfazil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomagurno&show_icons=true&locale=en" alt="enzomagurno" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadfazil&show_icons=true&locale=en" alt="fahadfazil" /></p>
