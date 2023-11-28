@@ -19,9 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,github,idea,grafana,postman,mysql,postgres,mongodb,redis,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,github,idea,grafana,postman,mysql,postgres,mongodb,linux,nginx,rabbitmq,redis,stackoverflow)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,maven,spring,aws,azure,gcp,kubernetes,linux,nginx,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,maven,spring,aws,azure,gcp,kubernetes)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,materialui,nextjs,netlify)](https://skillicons.dev)
 
