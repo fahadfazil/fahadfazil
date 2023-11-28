@@ -37,6 +37,6 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats-fawn-zeta.vercel.app/api?username=fahadfazil&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs/?username=fahadfazil&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=html,css,ph&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats-fawn-zeta.vercel.app/api?username=fahadfazil&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs/?username=fahadfazil&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=html,css,php)</a>
 </details>
