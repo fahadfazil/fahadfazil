@@ -20,7 +20,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,aws,azure,gcp,github,grafana,hibernate,idea,java,kotlin,kubernetes,linux,maven,materialui,netlify,nextjs,nginx,mysql,postgres,mongodb,postman,rabbitmq,react,redis,spring,stackoverflow,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,github,idea,grafana,postman,mysql,postgres,mongodb,redis,stackoverflow)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,maven,spring,aws,azure,gcp,kubernetes,linux,nginx,rabbitmq)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,materialui,nextjs,netlify)](https://skillicons.dev)
+
 
 <hr/>
 
