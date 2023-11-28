@@ -25,5 +25,5 @@
 <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs?username=fahadfazil&show_icons=true&hide=html,css" alt="fahadfazil" /></p>
+<p><img align="left" src="https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs?username=fahadfazil&show_icons=true&hide=html,css,php" alt="fahadfazil" /></p>
 <p><img align="center" src="https://github-readme-stats-fawn-zeta.vercel.app/api?username=fahadfazil&show_icons=true&locale=en" alt="fahadfazil" /></p>
