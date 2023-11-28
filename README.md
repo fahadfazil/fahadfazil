@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Fazil</h1>
 <h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzomagurno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomagurno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfazil&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfazil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzomagurno" alt="enzomagurno" /></a> </p>
 
