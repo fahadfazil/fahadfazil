@@ -31,3 +31,11 @@
 
 <p><img align="left" src="https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs?username=fahadfazil&show_icons=true&hide=html,css,php&locale=en" alt="fahadfazil" /></p>
 <p><img align="center" src="https://github-readme-stats-fawn-zeta.vercel.app/api?username=fahadfazil&show_icons=true&locale=en" alt="fahadfazil" /></p>
+
+<hr/>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fahadfazil&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadfazil&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
