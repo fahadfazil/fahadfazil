@@ -3,10 +3,10 @@
 <p align="left">Skilful Software Architect with over 10 years of designing scalable solutions and guidelines to expedite and enhance application engineering. Versed in numerous software categories for business and private users. Adept at constructing software architecture suited to rapid deployment across multiple projects to reduce development times and costs. Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fahadfazil&row=1" alt="fahadfazil" /></a> </p>
 
-- 🔭 I’m currently working on Netzchef
+- 🔭 I’m currently working on Devize
 - 🌱 I’m currently learning **React, Next, Netlify, Vercel**
 - 💬 Ask me about **Java, Spring, Docker, AWS, Architecture, Cloud Native, Scale**
-- 📫 How to reach me ✉️ **fahad.fazil007@gmail.com**
+- 📫 How to reach me ✉️ **fahad@devize.cloud**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,10 +26,3 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,materialui,nextjs,netlify)](https://skillicons.dev)
 
 <hr/>
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats-fawn-zeta.vercel.app/api?username=fahadfazil&theme=blueberry&count_private=true&hide_border=true)</a>
-  <a href="#">![Top Langs](https://github-readme-stats-fawn-zeta.vercel.app/api/top-langs/?username=fahadfazil&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=html,css,php)</a>
-</details>
