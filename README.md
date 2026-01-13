@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fahad Fazil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfazil&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfazil" /> </p>
 <p align="left">Skilful Software Architect/CTO with over 12 years of designing scalable solutions and guidelines to expedite and enhance application engineering. Versed in numerous software categories for business and private users. Adept at constructing software architecture suited to rapid deployment across multiple projects to reduce development times and costs. Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fahadfazil&row=1" alt="fahadfazil" /></a> </p>
 
-- 🔭 I’m currently working on Devize
+- 🔭 I’m currently working as CTO, Leadrat
 - 🌱 I’m currently learning **React, Next, Netlify, Vercel**
 - 💬 Ask me about **Java, Spring, Docker, AWS, K8s, EKS, Architecture, Cloud Native, Scale**
-- 📫 How to reach me ✉️ **fahad@devize.cloud**
+- 📫 How to reach me ✉️ **fahad.f@leadrat.com**
 
 
 <h3 align="left">Connect with me:</h3>
